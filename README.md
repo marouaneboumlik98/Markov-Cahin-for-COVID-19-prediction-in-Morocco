@@ -12,5 +12,5 @@ In this study, the discrete-time Markov chain is used to analyze the dataset. Th
 
 ## Dataset
 
-In this study, the daily Covid-19 case data in Morocco from December 31, 2021, to September 14, 2023, are analyzed [Covid_Data](https://github.com/owid/covid-19-data/tree/master/public/data). The data on daily Covid-19 cases in Morocco during the given period are presented in Table 1 and Figure 1.
+In this study, the daily Covid-19 case data in Morocco from December 31, 2021, to September 14, 2023, are analyzed [Covid_Data](https://github.com/owid/covid-19-data/tree/master/public/data). The data on daily Covid-19 cases in Morocco during the given period are presented in Table 1 and ![Figure 1](img/Distribustion_Covid.png).
 
